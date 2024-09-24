@@ -1,8 +1,8 @@
 // App.js
 import React from 'react';
-import { ProductProvider } from './ProductContext';
-import ProductList from './ProductList';
-import Cart from './Cart';
+import { ProductProvider } from './src/ProductContext';
+import ProductList from './src/ProductList';
+import Cart from './src/Cart';
 import './styles.scss'; 
 
 const App = () => {
